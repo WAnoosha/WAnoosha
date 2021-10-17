@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WAnoosha
+- 👀 I’m interested in ... AI/ML
+- 🌱 I’m currently learning ... Machine learning and Deep learning
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... anooshamsk@gmail.com
